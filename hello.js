@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Nice to meet you.")
+console.log("Hello, World!")
 console.log(10+10)
 console.log("The Quick Brown Fox"); console.log("pause for dramatic effect")
 console.log("Jumped Over " + "The Lazy Dog")
